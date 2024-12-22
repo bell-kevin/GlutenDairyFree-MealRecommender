@@ -3,6 +3,8 @@
 # 
 Download the dataset from: https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions?resource=download
 
+Run on: https://colab.research.google.com/
+
 --------------------------------------------------------------------------------------------------------------------------
 == We're Using GitHub Under Protest ==
 
